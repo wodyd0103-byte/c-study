@@ -1,0 +1,19 @@
+# Compiled / build output
+*.exe
+*.o
+*.obj
+*.out
+a.out
+cmake-build-*/
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
